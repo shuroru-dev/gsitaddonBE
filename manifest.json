@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "G-sit修正アドオン",
+    "description": "g-sit のsitの文字を修正します",
+    "uuid": "afd97c24-2c37-424c-a1bc-07c7d6e2b92e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources",
+      "type": "resources",
+      "uuid": "e6675e94-6e8b-45b2-9f58-ac726eff64d0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "5b0fbe81-e08d-4cb5-809e-5929b702967d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
